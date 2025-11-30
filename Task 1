@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Challa Priyadarshini — Personal Webpage</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container" role="main">
+    <aside class="profile" aria-label="Profile column">
+      <div class="avatar">
+        <img src="https://th.bing.com/th/id/OIG.lVXjWwlHyIo4QdjnC1YE" alt="Challa Priyadarshini photo">
+      </div>
+      <div class="name">Challa Priyadarshini</div>
+      <div class="role">Frontend Developer (Internship-ready)</div>
+      <div class="meta">Hyderabad, Telangana • Web • HTML/CSS/JS</div>
+      <div class="skills" aria-hidden="false">
+        <span class="chip">HTML</span>
+        <span class="chip">CSS</span>
+        <span class="chip">JavaScript</span>
+        <span class="chip">React (learning)</span>
+        <span class="chip">Responsive</span>
+      </div>
+    </aside>
+
+    <section class="about">
+      <h2>About Me</h2>
+      <p class="bio">Hi — I’m Priyadarshini. I build clean, accessible, and responsive user interfaces using HTML, CSS, and JavaScript. I’m currently seeking internship opportunities where I can apply my front-end skills, collaborate with experienced developers, and continue learning modern web practices.</p>
+
+      <div class="cta">
+        <a class="btn" href="#contact">Get in touch</a>
+      </div>
+
+      <div class="contact" id="contact">
+        <a href="mailto:priyadarshinichalla75@gmail.com">priyadarshinichalla75@gmail.com</a>
+        <span aria-hidden="true">•</span>
+        <a href="https://github.com/challapriyadarshini" target="_blank">GitHub</a>
+        <span aria-hidden="true">•</span>
+        <a href="https://www.linkedin.com/in/challa-priyadarshini-b44568353/" target="_blank">LinkedIn</a>
+      </div>
+
+      <footer>
+        <strong>Short project idea:</strong> Build a personal portfolio site that showcases 3 small projects (Todo app, Responsive landing page, and a simple API-based gallery). This is great to include on LinkedIn and GitHub.
+      </footer>
+    </section>
+  </main>
+</body>
+</html>
+
+
